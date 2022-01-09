@@ -13,6 +13,11 @@ export default function Home() {
                 Dynamic Form Handling
             </Link>
         </ListItem>
+        <ListItem>
+            <Link href='/formValidation'>
+                Form validation
+            </Link>
+        </ListItem>
     </List>
 }
 

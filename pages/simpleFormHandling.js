@@ -107,7 +107,7 @@ export default function SimpleFormHandling() {
           />
           <FormLabel>${watchFields.perHourRate}</FormLabel>
         </Grid>
-        <Button type='submit'>Submit</Button>
+        <Button style={{ background: 'black', color: 'white' }} type='submit'>Submit</Button>
       </form>
     </Container>
   )
